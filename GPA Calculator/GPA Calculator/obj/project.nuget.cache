@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU6NQGeuKgHA2ohsX21QvB2bj/HNJKFYeWiWylG7jaV9y5qi5N/FaMztDqz4wznYofBiHL0ozRr9W92Bys6KyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damif\\source\\repos\\GPA Calculator\\GPA Calculator\\GPA Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
